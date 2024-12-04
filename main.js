@@ -1,2 +1,2 @@
-const navbar = document.querySelector('.nav-bar ul');
-navbar.style.backgroundColor = '#393b44';
+// const navbar = document.querySelector('.nav-bar ul');
+// navbar.style.backgroundColor = '#393b44fa';
