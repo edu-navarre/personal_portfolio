@@ -1,4 +1,4 @@
-const navbar = document.querySelector('.nav-bar ul');
+const navbar = document.querySelector('.desktop-header ul');
 
 function unhideBackground() {
     // Check if the window is NOT scrolled to the top
